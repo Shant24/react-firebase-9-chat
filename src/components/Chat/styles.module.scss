@@ -1,0 +1,15 @@
+.messagesContainer {
+  width: 80%;
+  height: 70vh;
+  border: 1px solid gray;
+  overflow-y: auto;
+}
+
+.inputContainer {
+  width: 80% !important;
+
+  button {
+    width: 120px;
+    margin-top: 20px;
+  }
+}
