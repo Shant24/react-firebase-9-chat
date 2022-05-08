@@ -1,6 +1,6 @@
 # Demo
 
-[https://firebase-chat.shant-dev.com/chat](https://firebase-chat.shant-dev.com/chat)
+[https://firebase-chat.shant-dev.com](https://firebase-chat.shant-dev.com)
 
 # Getting Started with Create React App
 
